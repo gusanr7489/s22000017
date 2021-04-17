@@ -3,3 +3,4 @@ apple
 mango
 pineapple
 orange
+strawberry
